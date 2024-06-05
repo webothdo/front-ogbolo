@@ -1,0 +1,3 @@
+.dropdown-trigger:hover .dropdown-item {
+  display: flex;
+}
